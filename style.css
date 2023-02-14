@@ -15,7 +15,6 @@ body {
     width: 130px;
     position: absolute;
     border-radius: 50%;
-    /* background: linear-gradient(#1845ad, #23a2f6); */
     background-color: #23a2f6;
     left: 80px;
     top: -200px;
@@ -26,7 +25,6 @@ body {
     width: 130px;
     position: absolute;
     border-radius: 50%;
-    /* background: linear-gradient(to right, #ff512f, #f09819); */
     background-color: #f09819;
     right: 100px;
     bottom: -170px;
@@ -85,11 +83,6 @@ input {
     right: -20px;
     transition: 0.5s;
     display: inline-block;
-    /* display: inline-block;
-    font-style: normal;
-    font-variant: normal;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased; */
 }
 
 .log-in-btn:hover span {
